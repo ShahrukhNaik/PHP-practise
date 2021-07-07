@@ -28,12 +28,9 @@
     #mulit-dimensional array
     $cars=array(
         array('honda',23,12),
-        array('hero',23,12),
-        array('suzuki',23,12)
+        array('hero',22,12),
+        array('suzuki',21,12)
     );
     // var_dump($cars);
     echo $cars[0][1];
-
-
-
-?>
+    ?>

@@ -23,7 +23,5 @@
         echo $j;
         $j++;
         echo "</br>";                
-    }while($j<5);
-    
-
+    }while($j<5);   
 ?>
